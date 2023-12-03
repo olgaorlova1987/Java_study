@@ -70,4 +70,14 @@ public abstract class AbstractGame implements Game {
         return status;
     }
 
+    @Override
+    public void showHistory() {;
+
+    }
+
+    @Override
+    public void restart() {
+
+    }
+
 }
